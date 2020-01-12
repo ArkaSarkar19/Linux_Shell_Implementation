@@ -1,0 +1,165 @@
+history
+mkdir try try2 try3
+mkdir t
+ls
+      mkdir       ry
+      mkdir    try
+ls
+ls
+ls -l
+ls -l -h -a
+cd demo
+ls
+cd
+ls
+exit
+cat history
+cat history.txt
+cat history
+cat history.txt
+cat history.txt
+ls
+rm c.txt
+ls
+mkdir try2
+ls
+cd try2
+ls
+cd try
+pwd
+ls     -l   -h
+cd ..
+cd ..
+ls
+cd ..
+cd ..
+cd ..
+ls
+cat history.txt
+cat -E history.txt
+cat -n history.txt
+ls
+cat -n -b history.txt
+cat history
+cat history.txt
+exit
+date
+date -R
+ls
+cd ..
+date
+dTE
+date
+date
+date -R
+date -f
+date -r
+ls
+ls
+ls
+ls
+history
+cd ..
+cd ..
+history
+history
+ls
+mkdir try
+ls -l
+ ls -l h
+history
+cd ..
+cd ..
+cd ..
+history
+exit
+cd /
+pwd
+cd home
+cd arkasarkar
+cd Desktop
+ls
+lx
+ls
+ls -l
+cd ..
+ls
+cd
+ls
+rm history.txt
+ls
+pwd
+cat mozilla.pdf
+cat >> history.txt
+cat >>kikiki history.txt
+cat >> ki.txt
+
+
+
+exit
+
+echo -n ":sdsds"
+echo *
+exit
+cd
+cd /Desktop/CAOS
+cd Desktop/CAOS
+mkdir try
+ls
+cd try
+cd ..
+cd try
+cd ~
+cd Desktop
+cd /
+cd
+echo "hello"
+cd Desktop/CAOS/try
+cd
+echo -n "hello"
+cd Desktop
+echo *
+cd CAOS
+echo *
+exit
+history
+ls
+history 
+history 5
+history
+history
+pwd
+ls
+ls -l
+myterminal@arka:~/home/arkasarkar/Desktop/CAOS $ ls
+a.out  cat.c  date.c  demo1.c  history.txt  ls.c  makefile  mkdir.c  rm.c  try
+ls -h
+ls -lh
+ls
+cat del.txt
+date
+date -d
+date -r
+date -R
+ls
+rm del.txt
+mkdir del
+ls
+rm -r del
+mkdir hello
+ls
+mkdir hello2
+ls
+exit
+ls
+rm -r hello
+rm -r hello2
+ls
+rm -r try
+ls
+history
+history
+echo "sdsf"
+pwd
+cat history.txt
+exit
